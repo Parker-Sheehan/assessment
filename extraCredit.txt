@@ -1,0 +1,6 @@
+Extra Credit assessment 2
+
+From my research i found that most tech company used more than just one tech stack for their entire product,
+it seems however that a specific stack might be used from a give aspect of a program for example i found that
+Pinterest uses javaScript, C++, varnish, Zookeeper and Envoy. for Web Deployments but for add Analytics they use mySQL, kafka, Apache Spark
+Hadoop, Druid and Hbase.
